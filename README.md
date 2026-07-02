@@ -2,10 +2,10 @@ Restaurant Management System
 
 Group Members
 
-- Mushood ur Rehman – (Roll Number)
-- Muhammad Hashir – (Roll Number)
-- Muhammad Hasnain – (Roll Number)
-- Usman Ghani – (Roll Number)
+- Mushood ur Rehman – (090)
+- Muhammad Hashir – (071)
+- Muhammad Hasnain – (101)
+- Usman Ghani – (031)
 
 Selected Management System
 
